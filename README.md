@@ -5,6 +5,9 @@ See here for the installation guide: https://doc.sagemath.org/html/en/installati
 
 See the report for details on the mathematics behind the code.
 
+
 sqrts.py - File containing the code for square roots mod n, as well as basic number theory algorithms such as the extended Euclidean algorithm and the Chinese Remainder Theorem.
+
 rational_conics.py - Code to simplify conics and find rational points using the Hasse-Minkowski Theorem.
+
 isomorphisms.py - Contains code for Hilbert symbols, detecting isomorphic conics, and getting the values of p for which a conic has no solutions over Q_p.
